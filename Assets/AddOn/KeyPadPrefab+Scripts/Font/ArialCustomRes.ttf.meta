@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c27a7bffdf78ce4ebff9d484a9375f7
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 500
+  forceTextureCase: 0
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - ArialCustom
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

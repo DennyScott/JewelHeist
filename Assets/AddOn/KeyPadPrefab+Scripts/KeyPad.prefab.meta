@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a18194fd7fb07124f8e726b6d215493b
+labels:
+- Key
+- Pad
+- Keypad
+- Terminal
+- Typing
+- Type
+- Lock
+- Keyboard
+- Board
+- Unlockable
+- Unlock
+- Activate
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
